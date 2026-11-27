@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Nada aspiring Data Analyst profile">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#030712"/><stop offset=".55" stop-color="#07111f"/><stop offset="1" stop-color="#0b1220"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#10b981"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow"><feGaussianBlur stdDeviation="10"/></filter>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#94a3b8" stroke-opacity=".06"/>
+  </pattern>
+</defs>
+
+<rect x="0" y="0" width="1180" height="610" rx="24" fill="url(#bg)"/>
+<rect x="0" y="0" width="1180" height="610" rx="24" fill="url(#grid)"/>
+<ellipse cx="270" cy="300" rx="300" ry="280" fill="url(#glow)">
+  <animate attributeName="opacity" values=".65;1;.65" dur="6s" repeatCount="indefinite"/>
+</ellipse>
+
+<!-- outer frame -->
+<rect x="18" y="18" width="1144" height="574" rx="20" fill="none" stroke="#22d3ee" stroke-opacity=".32"/>
+<rect x="19" y="19" width="1142" height="572" rx="20" fill="none" stroke="url(#accent)" stroke-opacity=".16"/>
+
+<!-- terminal chrome -->
+<rect x="42" y="42" width="1096" height="48" rx="12" fill="#0f172a" fill-opacity=".78" stroke="#94a3b8" stroke-opacity=".13"/>
+<circle cx="67" cy="66" r="6" fill="#ef4444"/>
+<circle cx="88" cy="66" r="6" fill="#eab308"/>
+<circle cx="109" cy="66" r="6" fill="#22c55e"/>
+<text x="132" y="71" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15">nada@data-analyst:~</text>
+<text x="1060" y="71" text-anchor="end" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="13">[ ONLINE ]</text>
+
+<!-- left visual -->
+<rect x="42" y="110" width="405" height="448" rx="18" fill="#0f172a" fill-opacity=".34" stroke="#94a3b8" stroke-opacity=".13"/>
+<text x="70" y="145" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="13" letter-spacing="2">VISUAL.MAP</text>
+<text x="70" y="175" fill="#64748b" font-family="ui-monospace,monospace" font-size="12">DATA / BUSINESS / INSIGHT</text>
+
+<!-- abstract data visual -->
+<g transform="translate(83 215)">
+  <rect x="0" y="0" width="325" height="170" rx="14" fill="#07111f" fill-opacity=".72" stroke="#22d3ee" stroke-opacity=".16"/>
+  <path d="M25 137 L80 112 L130 125 L180 72 L232 92 L292 42" fill="none" stroke="url(#accent)" stroke-width="3">
+    <animate attributeName="stroke-dasharray" values="0,500;500,0" dur="2.4s" fill="freeze"/>
+  </path>
+  <g fill="#22d3ee">
+    <circle cx="25" cy="137" r="4"/><circle cx="80" cy="112" r="4"/><circle cx="130" cy="125" r="4"/>
+    <circle cx="180" cy="72" r="4"/><circle cx="232" cy="92" r="4"/><circle cx="292" cy="42" r="4"/>
+  </g>
+  <g stroke="#94a3b8" stroke-opacity=".09">
+    <path d="M25 35H292M25 85H292M25 135H292"/>
+    <path d="M25 35V145M92 35V145M159 35V145M226 35V145M292 35V145"/>
+  </g>
+  <text x="25" y="27" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="10">TREND / KPI / INSIGHT</text>
+</g>
+
+<text x="82" y="426" fill="#f8fafc" font-family="ui-monospace,monospace" font-size="22" font-weight="700">ANALYZE → EXPLAIN → RECOMMEND</text>
+<text x="82" y="454" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">Building skills one project at a time.</text>
+<text x="82" y="505" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="14">~/analytics $</text>
+<text x="211" y="505" fill="#f8fafc" font-family="ui-monospace,monospace" font-size="14">build --learn</text>
+<rect x="336" y="494" width="7" height="16" fill="#22d3ee">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- right panel -->
+<rect x="467" y="110" width="671" height="448" rx="18" fill="#0f172a" fill-opacity=".46" stroke="#94a3b8" stroke-opacity=".14"/>
+<text x="501" y="145" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="13" letter-spacing="2">SYSTEM.INFO</text>
+<text x="501" y="175" fill="#64748b" font-family="ui-monospace,monospace" font-size="12">profile.sh</text>
+
+<text x="501" y="220" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">&gt; NAME</text>
+<text x="690" y="220" fill="#f8fafc" font-family="ui-monospace,monospace" font-size="16" font-weight="700">Nada</text>
+
+<text x="501" y="257" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">&gt; ROLE</text>
+<text x="690" y="257" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="16">Aspiring Data Analyst</text>
+
+<text x="501" y="294" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">&gt; STATUS</text>
+<text x="690" y="294" fill="#10b981" font-family="ui-monospace,monospace" font-size="16">Learning &amp; Building</text>
+
+<text x="501" y="331" fill="#94a3b8" font-family="ui-monospace,monospace" font-size="13">&gt; FOCUS</text>
+<text x="690" y="331" fill="#f8fafc" font-family="ui-monospace,monospace" font-size="16">Business + Data Analysis</text>
+
+<line x1="501" y1="354" x2="1105" y2="354" stroke="#94a3b8" stroke-opacity=".12"/>
+
+<text x="501" y="389" fill="#22d3ee" font-family="ui-monospace,monospace" font-size="12" letter-spacing="1.5">CORE TOOLKIT</text>
+
+<g font-family="ui-monospace,monospace" font-size="13">
+  <rect x="501" y="407" width="95" height="32" rx="16" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".35"/>
+  <text x="548" y="428" text-anchor="middle" fill="#dbeafe">Excel</text>
+  <rect x="608" y="407" width="84" height="32" rx="16" fill="#7c3aed" fill-opacity=".09" stroke="#7c3aed" stroke-opacity=".35"/>
+  <text x="650" y="428" text-anchor="middle" fill="#ede9fe">SQL</text>
+  <rect x="704" y="407" width="105" height="32" rx="16" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".35"/>
+  <text x="756" y="428" text-anchor="middle" fill="#dbeafe">Power BI</text>
+  <rect x="821" y="407" width="95" height="32" rx="16" fill="#10b981" fill-opacity=".09" stroke="#10b981" stroke-opacity=".35"/>
+  <text x="868" y="428" text-anchor="middle" fill="#d1fae5">Tableau</text>
+  <rect x="928" y="407" width="92" height="32" rx="16" fill="#7c3aed" fill-opacity=".09" stroke="#7c3aed" stroke-opacity=".35"/>
+  <text x="974" y="428" text-anchor="middle" fill="#ede9fe">Python</text>
+
+  <rect x="501" y="451" width="91" height="32" rx="16" fill="#22d3ee" fill-opacity=".07" stroke="#22d3ee" stroke-opacity=".25"/>
+  <text x="546" y="472" text-anchor="middle" fill="#dbeafe">NumPy</text>
+  <rect x="604" y="451" width="101" height="32" rx="16" fill="#10b981" fill-opacity=".07" stroke="#10b981" stroke-opacity=".25"/>
+  <text x="654" y="472" text-anchor="middle" fill="#d1fae5">Pandas</text>
+  <rect x="717" y="451" width="112" height="32" rx="16" fill="#7c3aed" fill-opacity=".07" stroke="#7c3aed" stroke-opacity=".25"/>
+  <text x="773" y="472" text-anchor="middle" fill="#ede9fe">Statistics</text>
+</g>
+
+<text x="501" y="524" fill="#64748b" font-family="ui-monospace,monospace" font-size="12">Goal: turn business questions into data-driven insights.</text>
+
+<!-- scanline -->
+<rect x="42" y="110" width="1096" height="2" fill="#22d3ee" opacity=".08">
+  <animate attributeName="y" values="110;556;110" dur="8s" repeatCount="indefinite"/>
+</rect>
+</svg>
