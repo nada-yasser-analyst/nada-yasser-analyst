@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nada-yasser-analyst/nada-yasser-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nada, an aspiring Data Analyst currently learning and building my skills in Data Analytics.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for Data Analysis
+- NumPy & Pandas
+- Statistics
+- Data Visualization
+- Data Storytelling
+- Business & Analytical Thinking
+
+### 🛠️ Tools & Skills
+
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Python
+- NumPy
+- Pandas
+
+### 📊 What I'm Working On
+
+- Data Analysis Projects
+- Real-world datasets
+- Business case studies
+- Building my Data Analytics portfolio
+- Improving my problem-solving and analytical thinking skills
+
+### 🎯 My Goal
+
+To become a professional Data Analyst who can turn business questions into data-driven insights and actionable recommendations.
+
+### 📚 My Learning Journey
+
+I'm continuously learning, practicing, and building projects to improve both my technical and analytical skills.
+
+### 🤝 I'm Open To
+
+- Learning opportunities
+- Data Analytics projects
+- Collaboration
+- Connecting with people in the Data Analytics community
+
